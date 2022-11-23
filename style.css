@@ -1,0 +1,22 @@
+.container {width: 80%;
+          min-height: 20rem;
+        border: o.2rem solid black;
+    background-color: rgb(111, 45, 173);}
+
+
+    header, main, aside, nav, footer {min-height: 10rem;
+                                    border: 0.2rem solid black;}
+
+                                    header{ background-color: chartreuse;}
+                                    main { background-color: rgb(133, 126, 188);}
+                                    aside { background-color: rgb(229, 209, 77);}
+                                    footer { background-color: rgb(218, 62, 109);}
+
+
+
+
+
+
+   
+      
+     
